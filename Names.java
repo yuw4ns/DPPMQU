@@ -6,15 +6,16 @@ public class Names {
 		// Put your signature function on the above line!
 		danielSuperCoolPrinting();
 		yuwansAwesomeASCIIArt();
+		arkiGassyAkaGunnaslad();
 	}
 	
 	public static void PrintHarrisSig() {
-		System.out.println(".--.     /\\                ____");
-		System.out.println("'--'    /__\\    (^._.^)~ <(o.o )>");
+		System.out.println(" Phurtev .--.     /\\                ____");
+		System.out.println(" Phurtev '--'    /__\\    (^._.^)~ <(o.o )>");
 	}
 
 	public static void danielSuperCoolPrinting(){
-		System.out.println("Tôi thách 你们 to read this 句子！")；
+		System.out.println("Tôi thách 你们 to read this 句子!");
 	}
 
 	public static void yuwansAwesomeASCIIArt(){
@@ -52,5 +53,9 @@ public class Names {
 						"                                                ---   \r\n" + //
 						"------------------------------------------------\r\n"
 						)
+	}
+}
+	public static void arkiGassyAkaGunnaslad(){
+		System.out.println("SUBSCRIBE TO GUNNASLAD");
 	}
 }
