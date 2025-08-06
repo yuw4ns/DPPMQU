@@ -20,4 +20,8 @@ public class Names {
 	public static void arkiGassyAkaGunnaslad(){
 		System.out.println("SUBSCRIBE TO GUNNASLAD");
 	}
+
+	public static void Junescoolplanet(){
+		System.out.println("Phurtev");
+	}
 }
