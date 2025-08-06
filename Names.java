@@ -6,6 +6,8 @@ public class Names {
 		// Put your signature function on the above line!
 		danielSuperCoolPrinting();
 		arkiGassyAkaGunnaslad();
+		AndrewThaiPrinting();
+
 	}
 	
 	public static void PrintHarrisSig() {
@@ -23,5 +25,9 @@ public class Names {
 
 	public static void Junescoolplanet(){
 		System.out.println("Phurtev");
+	}
+
+	public static void  AndrewThaiPrinting() {
+		System.out.println("https://www.youtube.com/watch?v=wxDv68nVGRA&ab_channel=ALousyPeach")
 	}
 }
