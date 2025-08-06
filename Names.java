@@ -5,6 +5,7 @@ public class Names {
 		PrintHarrisSig();
 		// Put your signature function on the above line!
 		danielSuperCoolPrinting();
+		yuwansAwesomeASCIIArt();
 	}
 	
 	public static void PrintHarrisSig() {
@@ -14,5 +15,42 @@ public class Names {
 
 	public static void danielSuperCoolPrinting(){
 		System.out.println("Tôi thách 你们 to read this 句子！")；
+	}
+
+	public static void yuwansAwesomeASCIIArt(){
+		System.out.println("				   _\r\n" + //
+						"                   \\\"-._ _.--\"~~\"--._\r\n" + //
+						"                    \\   \"            ^.    ___\r\n" + //
+						"                    /                  \\.-~_.-~\r\n" + //
+						"             .-----'     /\\/\"\\ /~-._      /\r\n" + //
+						"            /  __      _/\\-.__\\L_.-/\\     \"-.\r\n" + //
+						"           /.-\"  \\    ( ` \\_o>\"<o_/  \\  .--._\\\r\n" + //
+						"          /'      \\    \\:     \"     :/_/     \"`\r\n" + //
+						"                  /  /\\ \"\\    ~    /~\"\r\n" + //
+						"                  \\ I  \\/]\"-._ _.-\"[\r\n" + //
+						"               ___ \\|___/ ./    l   \\___   ___\r\n" + //
+						"          .--v~   \"v` ( `-.__   __.-' ) ~v\"   ~v--.\r\n" + //
+						"       .-{   |     :   \\_    \"~\"    _/   :     |   }-.\r\n" + //
+						"      /   \\  |           ~-.,___,.-~           |  /   \\\r\n" + //
+						"     ]     \\ |                                 | /     [\r\n" + //
+						"     /\\     \\|     :                     :     |/     /\\\r\n" + //
+						"    /  ^._  _K.___,^                     ^.___,K_  _.^  \\\r\n" + //
+						"   /   /  \"~/  \"\\                           /\"  \\~\"  \\   \\\r\n" + //
+						"  /   /    /     \\ _          :          _ /     \\    \\   \\\r\n" + //
+						".^--./    /       Y___________l___________Y       \\    \\.--^.\r\n" + //
+						"[    \\   /        |        [/    ]        |        \\   /    ]\r\n" + //
+						"|     \"v\"         l________[____/]________j  -Row   }r\"     /\r\n" + //
+						"}------t          /                       \\       /`-.     /\r\n" + //
+						"|      |         Y                         Y     /    \"-._/\r\n" + //
+						"}-----v'         |         :               |     7-.     /\r\n" + //
+						"|   |_|          |         l               |    / . \"-._/\r\n" + //
+						"l  .[_]          :          \\              :  r[]/_.  /\r\n" + //
+						" \\_____]                     \"--.             \"-.____/\r\n" + //
+						"\r\n" + //
+						"\r\n" + //
+						"                                    \"Dragonball Z\"\r\n" + //
+						"                                                ---Row\r\n" + //
+						"------------------------------------------------\r\n"
+						)
 	}
 }
