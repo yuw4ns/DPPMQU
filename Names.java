@@ -8,8 +8,8 @@ public class Names {
 	}
 	
 	public static void PrintHarrisSig() {
-		System.out.println(".--.     /\\                ____");
-		System.out.println("'--'    /__\\    (^._.^)~ <(o.o )>");
+		System.out.println(" Phurtev .--.     /\\                ____");
+		System.out.println(" Phurtev '--'    /__\\    (^._.^)~ <(o.o )>");
 	}
 
 	public static void danielSuperCoolPrinting(){
