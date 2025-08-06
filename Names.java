@@ -4,10 +4,15 @@ public class Names {
 		// Put your signature function on the below line!
 		PrintHarrisSig();
 		// Put your signature function on the above line!
+		danielSuperCoolPrinting();
 	}
 	
 	public static void PrintHarrisSig() {
 		System.out.println(".--.     /\\                ____");
 		System.out.println("'--'    /__\\    (^._.^)~ <(o.o )>");
+	}
+
+	public static void danielSuperCoolPrinting(){
+		System.out.println("Tôi thách 你们 to read this 句子！")；
 	}
 }
