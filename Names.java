@@ -5,6 +5,7 @@ public class Names {
 		PrintHarrisSig();
 		// Put your signature function on the above line!
 		danielSuperCoolPrinting();
+		arkiGassyAkaGunnaslad();
 	}
 	
 	public static void PrintHarrisSig() {
@@ -14,5 +15,9 @@ public class Names {
 
 	public static void danielSuperCoolPrinting(){
 		System.out.println("Tôi thách 你们 to read this 句子!");
+	}
+
+	public static void arkiGassyAkaGunnaslad(){
+		System.out.println("SUBSCRIBE TO GUNNASLAD");
 	}
 }
