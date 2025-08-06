@@ -13,6 +13,6 @@ public class Names {
 	}
 
 	public static void danielSuperCoolPrinting(){
-		System.out.println("Tôi thách 你们 to read this 句子！")；
+		System.out.println("Tôi thách 你们 to read this 句子!");
 	}
 }
