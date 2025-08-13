@@ -8,12 +8,17 @@ public class Names {
 		yuwansAwesomeASCIIArt();
 		arkiGassyAkaGunnaslad();
 		AndrewThaiPrinting();
+		printNikolaSig();
 
 	}
 	
 	public static void PrintHarrisSig() {
 		System.out.println(" Phurtev .--.     /\\                ____");
 		System.out.println(" Phurtev '--'    /__\\    (^._.^)~ <(o.o )>");
+	}
+
+	public static void printNikolaSig() {
+		System.out.println("We do a little printing, it's called we do a little printing")
 	}
 
 	public static void danielSuperCoolPrinting(){
