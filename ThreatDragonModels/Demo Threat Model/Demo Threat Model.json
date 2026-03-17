@@ -2016,17 +2016,26 @@
             }
           }
         ],
-        "version": "2.3.0",
+        "version": "2.6.0",
         "title": "Main Request Data Flow",
         "description": "",
         "thumbnail": "./public/content/images/thumbnail.stride.jpg",
         "diagramType": "STRIDE",
         "id": 0
+      },
+      {
+        "id": 1,
+        "title": "MACQUNI",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.0",
+        "cells": []
       }
     ],
-    "diagramTop": 1,
+    "diagramTop": 2,
     "reviewer": "Jane Smith",
     "threatTop": 0
   },
-  "version": "2.3.0"
+  "version": "2.6.0"
 }
